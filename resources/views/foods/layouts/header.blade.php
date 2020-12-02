@@ -23,7 +23,7 @@
 	<div class="site-title">
 		<div class="zerogrid">
 			<div class="row">
-				<h2 class="t-center">Truely the best restaurant in town - The New York Times</h2>
+				<h2 class="t-center">@yield('site-title', 'Truely the best restaurant in town - The New York Times')</h2>
 			</div>
 		</div>
 	</div>

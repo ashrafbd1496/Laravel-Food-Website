@@ -13,4 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/', 'FoodController@showHomePage');
 Route::get('blog', 'FoodController@showBlogPage');
+Route::get('menu', 'FoodController@showMenuPage');
+Route::get('news', 'FoodController@showNewsPage');
+Route::get('location', 'FoodController@showLocationPage');
+Route::get('reservation', 'FoodController@showReservPage');
+Route::get('staff', 'FoodController@showStaffPage');
+Route::get('gallery', 'FoodController@showGalleryPage');

@@ -1,5 +1,7 @@
 @extends('foods.layouts.app')
 
+@section('site-title', "Read latest article here")
+
 
 @section('main-content')
 
