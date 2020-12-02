@@ -1,7 +1,7 @@
 <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>zItalyFood | Free Restaurant Html5 Templates</title>
+	<title>zItalyFood | @yield('title-bar', 'Italy Based Food Resturant')</title>
 	<meta name="description" content="Free Responsive Html5 Css3 Templates | zerotheme.com">
 	<meta name="author" content="www.zerotheme.com">
 	

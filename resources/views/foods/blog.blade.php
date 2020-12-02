@@ -1,5 +1,6 @@
 @extends('foods.layouts.app')
 
+@section('title-bar', "Blog")
 @section('site-title', "Read latest article here")
 
 
