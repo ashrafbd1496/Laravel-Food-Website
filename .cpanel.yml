@@ -1,0 +1,6 @@
+  
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/idevitco/public_html/larafood
+    - /bin/cp -a * $DEPLOYPATH
