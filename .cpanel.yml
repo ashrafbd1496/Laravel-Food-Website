@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/idevitco/public_html/ashrafbd.com/food
+    - export DEPLOYPATH=/home/idevitco/public_html/food
     - /bin/cp * $DEPLOYPATH
